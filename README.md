@@ -1,3 +1,4 @@
+aim 
 # SR_FLIPFLOP
 ![image](https://github.com/RESMIRNAIR/SR_FLIPFLOP/assets/154305926/c17acfa3-84d9-4ef6-99ab-d36655169f63)
 # Circuit Diagram
